@@ -4,7 +4,7 @@ Generates a figure 8 pattern on the 7-segment display:
 ![demo](demo.gif)
 
 
---
+---
 
 ![](../../workflows/wokwi/badge.svg)
 
